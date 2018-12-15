@@ -1,0 +1,3 @@
+﻿  MazeSolverGUIVer.cpp
+c:\users\john herrera\source\repos\mazesolver(gui ver)\mazesolver(gui ver)\mazesolverdfs.h(119): warning C4715: 'MazeSolver::DFS_Recursive': not all control paths return a value
+  MazeSolver(GUI Ver).vcxproj -> C:\Users\John Herrera\source\repos\MazeSolver(GUI Ver)\x64\Release\MazeSolver(GUI Ver).exe
