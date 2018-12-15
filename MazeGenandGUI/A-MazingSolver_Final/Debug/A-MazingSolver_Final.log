@@ -1,0 +1,6 @@
+﻿  tester.cpp
+c:\users\jaswe_000\source\repos\mazegenandgui\a-mazingsolver_final\dfsmazegenerator.h(292): warning C4101: 'response': unreferenced local variable
+c:\users\jaswe_000\source\repos\mazegenandgui\a-mazingsolver_final\tester.cpp(12): warning C4101: 'Level': unreferenced local variable
+c:\users\jaswe_000\source\repos\mazegenandgui\a-mazingsolver_final\tester.cpp(10): warning C4101: 'test': unreferenced local variable
+c:\users\jaswe_000\source\repos\mazegenandgui\a-mazingsolver_final\mazesolverdfs.h(124): warning C4715: 'MazeSolver::DFS_Recursive': not all control paths return a value
+  A-MazingSolver_Final.vcxproj -> C:\Users\jaswe_000\source\repos\MazeGenandGUI\Debug\A-MazingSolver_Final.exe
